@@ -1,0 +1,26 @@
+[
+    {
+        "status": "Unknown"
+    },
+    {
+        "status": "OK"
+    },
+    {
+        "status": "In Progress"
+    },
+    {
+        "status": "Complete, Status Unknown"
+    },
+    {
+        "status": "Warning"
+    },
+    {
+        "status": "Error"
+    },
+    {
+        "status": "Intervention in Progress"
+    },
+    {
+        "status": "Retired"
+    }
+]
